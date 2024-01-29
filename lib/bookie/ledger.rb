@@ -1,0 +1,2 @@
+class Bookie::Ledger
+end

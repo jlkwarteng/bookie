@@ -1,0 +1,3 @@
+class Bookie::Account 
+
+end
